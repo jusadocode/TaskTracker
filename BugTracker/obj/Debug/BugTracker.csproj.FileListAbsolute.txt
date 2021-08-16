@@ -1,0 +1,15 @@
+C:\Users\justa\source\repos\BugTracker\BugTracker\bin\Debug\BugTracker.exe.config
+C:\Users\justa\source\repos\BugTracker\BugTracker\bin\Debug\BugTracker.exe
+C:\Users\justa\source\repos\BugTracker\BugTracker\bin\Debug\BugTracker.pdb
+C:\Users\justa\source\repos\BugTracker\BugTracker\obj\Debug\BugTracker.csprojAssemblyReference.cache
+C:\Users\justa\source\repos\BugTracker\BugTracker\obj\Debug\BugTracker.Properties.Resources.resources
+C:\Users\justa\source\repos\BugTracker\BugTracker\obj\Debug\BugTracker.TrackerViewerForm.resources
+C:\Users\justa\source\repos\BugTracker\BugTracker\obj\Debug\BugTracker.csproj.GenerateResource.cache
+C:\Users\justa\source\repos\BugTracker\BugTracker\obj\Debug\BugTracker.csproj.CoreCompileInputs.cache
+C:\Users\justa\source\repos\BugTracker\BugTracker\obj\Debug\BugTracker.exe
+C:\Users\justa\source\repos\BugTracker\BugTracker\obj\Debug\BugTracker.pdb
+C:\Users\justa\source\repos\BugTracker\BugTracker\obj\Debug\BugTracker.CreateNewBugForm.resources
+C:\Users\justa\source\repos\BugTracker\BugTracker\obj\Debug\BugTracker.SettingsForm.resources
+C:\Users\justa\source\repos\BugTracker\BugTracker\obj\Debug\TaskTracker.Properties.Resources.resources
+C:\Users\justa\source\repos\BugTracker\BugTracker\obj\Debug\TaskTracker.SettingsForm.resources
+C:\Users\justa\source\repos\BugTracker\BugTracker\obj\Debug\TaskTracker.TrackerViewerForm.resources

@@ -1,0 +1,4 @@
+Bug tracker application to track various objectives.
+Connects and stores data to the SQL database.
+One user at a time.
+Emails user about certain tasks where time left to complete < (specified)
