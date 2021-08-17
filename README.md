@@ -8,3 +8,8 @@ Can be minimized to system tray.
 Demo section:
 There is a demo window made to check out the application functionality without the need to set up a sql database.
 In demo mode, the emailing functionality is also disabled.
+
+
+Setting up:
+In order to set up the TaskTracker for everyday use, there needs to be some general parameters specified.
+(Soon)
