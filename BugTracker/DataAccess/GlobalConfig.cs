@@ -16,7 +16,7 @@ namespace TaskTracker
     {
         public static IDataConnection Connection { get; private set; }
         public static TimeSpan EmailTime = Properties.Settings.Default.EmailTime;
-
+        public static bool DemoModeEnabled = false;
 
         public static void InitializeConnection()
         {
@@ -34,8 +34,9 @@ namespace TaskTracker
         public static bool EmailEnabled()
         {
             return Properties.Settings.Default.EmailCheckBox;
-            
         }
+        
+        
 
 
 

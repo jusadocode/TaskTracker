@@ -75,7 +75,8 @@ namespace TaskTracker
                 taskToModify.Priority = priorComboBox.SelectedItem.ToString();
                 taskToModify.Difficulty = diffComboBox.SelectedItem.ToString();
 
-                GlobalConfig.Connection.UpdateTask(taskToModify);
+                if (!GlobalConfig.DemoModeEnabled)
+                    GlobalConfig.Connection.UpdateTask(taskToModify);
 
                 callingForm.BugUpdated(taskToModify);
                 this.Close();

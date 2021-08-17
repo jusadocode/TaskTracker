@@ -59,6 +59,12 @@
   <ItemGroup>
     <Compile Include="DataAccess\IDataConnection.cs" />
     <Compile Include="DataAccess\SqlConnector.cs" />
+    <Compile Include="DemoViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DemoViewerForm.Designer.cs">
+      <DependentUpon>DemoViewerForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="EditTaskForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -96,6 +102,12 @@
     <Compile Include="SettingsForm.Designer.cs">
       <DependentUpon>SettingsForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="StartMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartMenuForm.Designer.cs">
+      <DependentUpon>StartMenuForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="TaskLogic.cs" />
     <Compile Include="TrackerViewerForm.cs">
       <SubType>Form</SubType>
@@ -110,6 +122,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="CreateNewProjectForm.resx">
       <DependentUpon>CreateNewProjectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DemoViewerForm.resx">
+      <DependentUpon>DemoViewerForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="EditTaskForm.resx">
       <DependentUpon>EditTaskForm.cs</DependentUpon>
@@ -129,6 +144,9 @@
     </Compile>
     <EmbeddedResource Include="SettingsForm.resx">
       <DependentUpon>SettingsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartMenuForm.resx">
+      <DependentUpon>StartMenuForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="TrackerViewerForm.resx">
       <DependentUpon>TrackerViewerForm.cs</DependentUpon>

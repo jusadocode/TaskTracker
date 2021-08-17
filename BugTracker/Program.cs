@@ -19,9 +19,8 @@ namespace TaskTracker
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             TaskTracker.GlobalConfig.InitializeConnection();
-            ProjectSelectionForm frm = new ProjectSelectionForm();
-            
-            Application.Run(new ProjectSelectionForm());
+ 
+            Application.Run(new StartMenuForm());
         }
     }
 }

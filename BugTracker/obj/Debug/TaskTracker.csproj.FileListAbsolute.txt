@@ -16,3 +16,5 @@ C:\Users\justa\source\repos\BugTracker\BugTracker\obj\Debug\TaskTracker.csproj.C
 C:\Users\justa\source\repos\BugTracker\BugTracker\obj\Debug\TaskTracker.csproj.AssemblyReference.cache
 C:\Users\justa\source\repos\BugTracker\BugTracker\obj\Debug\TaskTracker.EditTaskForm.resources
 C:\Users\justa\source\repos\BugTracker\BugTracker\obj\Debug\TaskTracker.CreateNewTaskForm.resources
+C:\Users\justa\source\repos\BugTracker\BugTracker\obj\Debug\TaskTracker.DemoViewerForm.resources
+C:\Users\justa\source\repos\BugTracker\BugTracker\obj\Debug\TaskTracker.StartMenuForm.resources

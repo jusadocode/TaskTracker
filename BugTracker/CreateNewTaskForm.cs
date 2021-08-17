@@ -45,7 +45,8 @@ namespace TaskTracker
             {              
                 Bug model = new Bug(BugTitleText.Text, DateTime.Now, deadline, PriotityComboBox.SelectedItem.ToString(), DifficultyBox.SelectedItem.ToString());
                 model.ProjectID = currentProject.ID;
-                GlobalConfig.Connection.CreateTask(model);
+                if(!GlobalConfig.DemoModeEnabled)
+                    GlobalConfig.Connection.CreateTask(model);
                 callingForm.BugComplete(model);
                 this.Close();
             }
