@@ -13,7 +13,7 @@ In demo mode, the emailing functionality is also disabled.
 Setting up:
 In order to set up the TaskTracker for everyday use, there needs to be some general parameters specified.
 1. You must have SQL Server Management Studio installed (https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
-2. Load the TaskTracker database tables by opening the file "ttrackerdb.sql".
+2. Load the TaskTracker database tables by opening the file "ttrackerdb.sql" and executing the database creation commands.
 3. Inside App.config you must specify the following:
    Line 9: value of SenderEmail (The email address that SENDS notifications)
    Line 13: value of connectionString. More info here (https://www.connectionstrings.com/sql-server/)
