@@ -15,9 +15,9 @@ In order to set up the TaskTracker for everyday use, there needs to be some gene
 1. You must have SQL Server Management Studio installed (https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 2. Load the TaskTracker database tables by opening the file "ttrackerdb.sql" and executing the database creation commands.
 3. Inside App.config you must specify the following:
-   Line 9: value of SenderEmail (The email address that SENDS notifications)
+   Line 9: value of SenderEmail (The email address that <b>sends</b> notifications)
    Line 13: value of connectionString. More info here (https://www.connectionstrings.com/sql-server/)
-   Line 18: value of userName (The email address that SENDS notifications), password of the email address.
+   Line 18: value of userName (The email address that <b>sends</b> notifications), password of the email address.
    
 Note: the email address that provides notifications should have "Less secure apps" option turned on in order for email notifications to work.
 If you encounter any errors regarding email, try rechecking 3rd set up section and make sure you did every step correctly. 
