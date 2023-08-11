@@ -1,5 +1,8 @@
 # TaskTracker
-Winforms application for tracking your tasks on different projects/sections.
+
+Project was created while learning C# winforms for desktop application development together with SQL server to store and maintain used data.
+
+### Winforms application for tracking your tasks on different projects/sections.
 
 
 
